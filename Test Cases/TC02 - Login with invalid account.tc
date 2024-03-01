@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02 - Login with invalid account</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>82f76c9b-884b-484e-a7ef-973ff7f50f57</testCaseGuid>
+</TestCaseEntity>
